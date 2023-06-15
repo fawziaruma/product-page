@@ -2,3 +2,50 @@
     display: grid;
     grid-template-columns: repeat(2 ,1fr);
 }
+.image img {
+    width: 530px;
+    height: 457px;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+.main-info{
+    margin-left: 80px;
+}
+.pra{
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+.btn{
+    width: 150px;
+    height: 41px;
+    padding: 6px;
+    margin: 10px;
+    background-color: #D01C28;
+    color: white;
+    margin-bottom: 50px;
+    
+}
+.btn2{
+    width: 150px;
+    height: 41px;
+    padding: 6px;
+    margin: 10px;
+    border: 1px solid black;
+
+}
+
+.main-info h1{
+    font-weight: 800;
+    font-size: 108px;
+    line-height: 102px;
+}
+.last-info{
+    margin-left: 80px;
+}
+.last-info img{
+    padding: 10px;
+}
+.last-info p{
+    color: #5A5959;
+    margin-bottom: 9px;
+}

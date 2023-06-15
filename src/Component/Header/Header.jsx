@@ -1,11 +1,11 @@
 import './Header.css'
-import '../image/WhatsApp Image 2023-06-14 at 10.40.09 PM (1).jpeg'
+import logo from '../image/WhatsApp Image 2023-06-14 at 10.40.09 PM (1).jpeg'
 
 const Header = () => {
   return (
     <nav className="header">
       <div className='logo'>
-      <img src={(1)} />
+      <img src={logo} />
       </div>
         <div className="left">
             <a href="">Menu</a>

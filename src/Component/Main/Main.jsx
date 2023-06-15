@@ -1,5 +1,5 @@
 import './Main.css'
-import '../image/WhatsApp Image 2023-06-14 at 10.40.10 PM (1).jpeg'
+import logo from '../image/WhatsApp Image 2023-06-14 at 10.40.10 PM (1).jpeg'
 
 const Main = () => {
   return (
@@ -12,7 +12,7 @@ const Main = () => {
             <button>Category</button>
         </div>
         <div>
-            <img src={(1)} alt="" />
+            <img src={logo} alt="" />
         </div>
     </div>
   )

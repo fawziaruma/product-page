@@ -1,14 +1,16 @@
 .header{
     display: flex;
     justify-content: center;
-    margin-bottom: 150px;
 }
 .logo img{
-    margin-right: 100px;
+    margin-right: 400px;
 }
 .left a{
    margin: 10px;
    color: black;
+}
+.left{
+    margin-right: 130px;
 }
 
 .right a{
@@ -19,5 +21,5 @@
     border-radius: 3px;
 }
 .right{
-    margin-left: 150px;
+    margin-left: 200px;
 }

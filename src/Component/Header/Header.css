@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 150px;
+}
+.logo img{
+    margin-right: 100px;
+}
+.left a{
+   margin: 10px;
+   color: black;
+}
+
+.right a{
+    border: 1px solid brown;
+    padding: 5px;
+    background-color: brown;
+    color: white;
+    border-radius: 3px;
+}
+.right{
+    margin-left: 150px;
+}
